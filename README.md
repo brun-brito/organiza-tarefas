@@ -69,14 +69,14 @@ node index.js
 
 > Se tudo der certo, você verá essa mensagem no console:
 
-![Print console](readme-images/image%20copy.png)
+![Print console](readme-images/console1.png)
 
 ---
 
 #### Prisma Studio:
 > Se você deseja acessar os dados do banco em uma interface, rode o comando `npx prisma studio`, e abrirá uma interface parecida com essa:
 
-![Print console](readme-images/image.png)
+![Prisma Interface](readme-images/prisma.png)
 
 ### 3. Executar o app Flutter
 
@@ -95,7 +95,7 @@ flutter run
 
 > Se tudo der certo, você verá essa algo assim no console:
 
-![Print console](readme-images/image%20copy%202.png)
+![Print console](readme-images/console2.png)
 
 ---
 
@@ -129,24 +129,24 @@ Durante o desenvolvimento, utilizei IA como apoio para:
 ### Vídeos de utilização do app:
 - Criação de tarefa:
 
-![Print console](readme-images/criando.gif)
+![Criando tarefa](readme-images/criando.gif)
 
 
 ---
 - Edição de tarefa:
-![Print console](readme-images/editando.gif)
+![Editando tarefa](readme-images/editando.gif)
 
 
 ---
 - Marcar tarefa concluída:
-![Print console](readme-images/concluido.gif)
+![Tarefa concluída](readme-images/concluido.gif)
 
 
 ---
 - Excluir tarefa:
-![Print console](readme-images/excluindo.gif)
+![Excluindo tarefa](readme-images/excluindo.gif)
 
 
 ---
 - Usar filtros:
-![Print console](readme-images/filtros.gif)
+![Aplicando filtros](readme-images/filtros.gif)
